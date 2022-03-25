@@ -1,4 +1,4 @@
- Hi, I am kartik! Great to see you here! 
+ Hi, I am kartik! Great to see you here! ![wave](https://user-images.githubusercontent.com/91483577/160083967-e4c41511-2afd-4990-a8a0-e5c147fdee2f.gif)
 
 🔭 I’m currently working on Dapps 
 
@@ -11,7 +11,7 @@ Twitter ---- https://twitter.com/imkartiksen and
 Linkden ----https://www.linkedin.com/in/kartik-sen-22300a137/
 
  
-![wave](https://user-images.githubusercontent.com/91483577/160083967-e4c41511-2afd-4990-a8a0-e5c147fdee2f.gif)
+
 
 <!--
 **ksen21/ksen21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
