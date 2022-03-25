@@ -1,8 +1,13 @@
 ### Hi there Friends 👋
 🔭 I’m currently working on Dapps 
+
 🌱 I’m currently learning Blockchain Development
+
 💬 Ask me about Blockchain, Web-Development and Python
-📫 How to reach me --- You can contact on 💌 Karthiksen10@gmail.com, Twitter ---- https://twitter.com/imkartiksen and Linkden ----https://www.linkedin.com/in/kartik-sen-22300a137/
+
+📫 How to reach me --- You can contact on 💌 Karthiksen10@gmail.com
+Twitter ---- https://twitter.com/imkartiksen and 
+Linkden ----https://www.linkedin.com/in/kartik-sen-22300a137/
 
  
 
