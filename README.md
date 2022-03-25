@@ -1,4 +1,5 @@
-### Hi there Friends 👋
+###Hi, I am kartik! Great to see you here!
+
 🔭 I’m currently working on Dapps 
 
 🌱 I’m currently learning Blockchain Development
