@@ -1,6 +1,6 @@
 ## Hi, I am Kartik! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Kartik Sen, currently pursuing my Master's of computer majoring in computer science from [SAGE University Indore](https://sageuniversity.in/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Kartik Sen, currently pursuing my Master's of computer application from [SAGE University Indore](https://sageuniversity.in/). I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kartiksen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kartik-sen-22300a137/)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimkartiksen)](https://twitter.com/imkartiksen)
