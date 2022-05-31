@@ -6,7 +6,7 @@ I am Kartik Sen, currently pursuing my Master's of computer application from [SA
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fimkartiksen)](https://twitter.com/imkartiksen)
 [![Instagram Badge](https://img.shields.io/badge/-mr_kartikey-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://www.instagram.com/mr_kartikey/)
 [![Gmail Badge](https://img.shields.io/badge/-karthiksen10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karthiksen10@gmail.com)](mailto:karthiksen10@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://codeportable.blogspot.com/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kartik-sen.netlify.app/)
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ksen21&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
